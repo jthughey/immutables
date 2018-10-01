@@ -1,6 +1,9 @@
 # immutables
 A library for creating and using immutable Java beans.
 
+[Start Here](https://github.com/jthughey/immutables/blob/master/src/main/java/com/immutables/StartHere.java)
+
+
 
     /* Type definition for an "Immutable Type". */
     public static class AnimalType extends LazyImmutableType {
